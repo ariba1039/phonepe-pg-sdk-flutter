@@ -11,6 +11,7 @@ To know about the integration steps, please visit the Dev Docs : [PhonePe Develo
 
 Pull dependencies and run the project:
 ```
+flutter clean 
 flutter pub get
 flutter run
 ```
